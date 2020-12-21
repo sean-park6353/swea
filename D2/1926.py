@@ -14,3 +14,5 @@ for i in range(1, int(a)+1):
 
 for i in result:
     print(i, end=' ')
+
+    
