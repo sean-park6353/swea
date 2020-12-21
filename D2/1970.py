@@ -11,3 +11,5 @@ for j in range(1, T+1):
     for i in range(len(cnt)):
         print(cnt[i], end=' ')
     print()
+
+    
